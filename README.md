@@ -27,6 +27,7 @@ The implemented CNN architecture has the following characteristics:
 
 ## Training Logs
 
+![alt text](image-1.png)
 
 ## GitHub Actions
 
