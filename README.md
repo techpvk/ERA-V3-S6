@@ -38,8 +38,8 @@ This repository includes GitHub Actions workflows to verify:
 - Use of GAP
 - Model accuracy on test set
 
-GitHub Actions Status: [![Model Verification](https://github.com/username/repo/actions/workflows/model_verify.yml/badge.svg)](https://github.com/techpvk/ERA-V3-S6/blob/main/.github/workflows/model_checks.yml)
-
+GitHub Actions Status: 
+![alt text](image-2.png)
 ## Usage
 
 1. Install dependencies:
